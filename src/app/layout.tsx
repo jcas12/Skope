@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.skopedev.com"),
-  title: "Skope – Powerful Websites for Personal Brands",
+  title: "Skope",
   description:
     "Transform your vision into a stunning digital presence that converts visitors into customers. Professional web design and development services.",
   keywords:
